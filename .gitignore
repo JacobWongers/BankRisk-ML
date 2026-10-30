@@ -430,3 +430,4 @@ FodyWeavers.xsd
 
 #any files specified by me
 *data
+*venv
